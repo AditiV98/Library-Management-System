@@ -13,7 +13,7 @@ npm start
 # For running db.json 
 json-server db.json --p 4000
 
-#Screenshots
+# Screenshots
 
 ![Screenshot (167)](https://user-images.githubusercontent.com/64195326/176989310-8854d2f4-d2c2-49b6-b9df-6fd503e0941b.png)
 ![Screenshot (168)](https://user-images.githubusercontent.com/64195326/176989313-6aaeeade-d88c-420a-a109-821cc21faffa.png)
