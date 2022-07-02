@@ -1,0 +1,30 @@
+{
+  "books": [
+    {
+      "BookName": "Ignited Minds",
+      "BookAuthor": "A. P. J. Abdul Kalam",
+      "Genre": "Biography, Inspirational fiction",
+      "Availability": "yes",
+      "PublishedDate": "2002-06-01",
+      "id": 1
+    },
+    {
+      "BookName": "wings of fire",
+      "BookAuthor": "A. P. J. Abdul Kalam",
+      "Genre": "Autobiography",
+      "Availability": "yes",
+      "PublishedDate": "2022-06-07",
+      "id": 4
+    }
+  ],
+  "favourites": [
+    {
+      "BookName": "Ignited Minds",
+      "BookAuthor": "A. P. J. Abdul Kalam",
+      "Genre": "Biography, Inspirational fiction",
+      "Availability": "yes",
+      "PublishedDate": "2002-06-01",
+      "id": 1
+    }
+  ]
+}
