@@ -1,4 +1,4 @@
-# Library-Management-System
+# ReactJS-Library-Management-System
 In this project I have used ReactJS concepts like react-router and hooks to create components like addBooks, ManageBooks, favourite and delete.</br>
 For styling and designing of the SPA I have used MaterialUI.</br>
 For storing the data I have used JSON document and for fetching data from JSON file I have used Axios Library.
